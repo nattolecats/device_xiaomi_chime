@@ -230,7 +230,6 @@ sys.qca1530=detect
 # Radio
 persist.radio.multisim.config=dsds
 keyguard.no_require_sim=true
-ro.com.android.dataroaming=true
 ro.vendor.use_data_netmgrd=true
 persist.data.netmgrd.qos.enable=true
 persist.vendor.data.mode=concurrent
